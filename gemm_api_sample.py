@@ -1,5 +1,5 @@
 ## pip install flask flask-cors
-## export FLASK_APP=postgres_sample && flask run
+## export FLASK_APP=gemm_api_sample && flask run
 
 import os
 from flask import Flask, jsonify
